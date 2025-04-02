@@ -1,1 +1,3 @@
-hello
+# Multi-Class Animal Classification
+
+This project classifies images of animals into multiple categories using a deep learning model based on MobileNetV2.
